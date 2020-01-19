@@ -1,0 +1,1196 @@
+[
+    {
+        "employee_code": "E1",
+        "department": "D1",
+        "score": 100,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E2",
+        "department": "D2",
+        "score": 99,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E3",
+        "department": "D3",
+        "score": 98,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E4",
+        "department": "D4",
+        "score": 97,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E5",
+        "department": "D5",
+        "score": 96,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E6",
+        "department": "D6",
+        "score": 95,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E7",
+        "department": "D7",
+        "score": 94,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E8",
+        "department": "D8",
+        "score": 93,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E9",
+        "department": "D9",
+        "score": 92,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E10",
+        "department": "D10",
+        "score": 91,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E11",
+        "department": "D11",
+        "score": 90,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E12",
+        "department": "D12",
+        "score": 89,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E13",
+        "department": "D13",
+        "score": 88,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E14",
+        "department": "D14",
+        "score": 87,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E15",
+        "department": "D15",
+        "score": 86,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E16",
+        "department": "D16",
+        "score": 85,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E17",
+        "department": "D17",
+        "score": 84,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E18",
+        "department": "D18",
+        "score": 83,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E19",
+        "department": "D19",
+        "score": 82,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E20",
+        "department": "D20",
+        "score": 81,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E21",
+        "department": "D21",
+        "score": 80,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E22",
+        "department": "D22",
+        "score": 79,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E23",
+        "department": "D23",
+        "score": 78,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E24",
+        "department": "D24",
+        "score": 77,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E25",
+        "department": "D25",
+        "score": 76,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E26",
+        "department": "D26",
+        "score": 75,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E27",
+        "department": "D27",
+        "score": 74,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E28",
+        "department": "D28",
+        "score": 73,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E29",
+        "department": "D29",
+        "score": 72,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E30",
+        "department": "D30",
+        "score": 71,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E31",
+        "department": "D31",
+        "score": 70,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E32",
+        "department": "D32",
+        "score": 69,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E33",
+        "department": "D33",
+        "score": 68,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E34",
+        "department": "D34",
+        "score": 67,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E35",
+        "department": "D35",
+        "score": 66,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E36",
+        "department": "D36",
+        "score": 65,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E37",
+        "department": "D37",
+        "score": 64,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E38",
+        "department": "D38",
+        "score": 63,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E39",
+        "department": "D39",
+        "score": 62,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E40",
+        "department": "D40",
+        "score": 61,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E41",
+        "department": "D41",
+        "score": 60,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E42",
+        "department": "D42",
+        "score": 59,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E43",
+        "department": "D43",
+        "score": 58,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E44",
+        "department": "D44",
+        "score": 57,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E45",
+        "department": "D45",
+        "score": 56,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E46",
+        "department": "D46",
+        "score": 55,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E47",
+        "department": "D47",
+        "score": 54,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E48",
+        "department": "D48",
+        "score": 53,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E49",
+        "department": "D49",
+        "score": 52,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E50",
+        "department": "D50",
+        "score": 51,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E51",
+        "department": "D51",
+        "score": 50,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E52",
+        "department": "D52",
+        "score": 49,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E53",
+        "department": "D53",
+        "score": 48,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E54",
+        "department": "D54",
+        "score": 47,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E55",
+        "department": "D55",
+        "score": 46,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E56",
+        "department": "D56",
+        "score": 45,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E57",
+        "department": "D57",
+        "score": 44,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E58",
+        "department": "D58",
+        "score": 43,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E59",
+        "department": "D59",
+        "score": 42,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E60",
+        "department": "D60",
+        "score": 41,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E61",
+        "department": "D61",
+        "score": 40,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E62",
+        "department": "D62",
+        "score": 39,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E63",
+        "department": "D63",
+        "score": 38,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E64",
+        "department": "D64",
+        "score": 37,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E65",
+        "department": "D65",
+        "score": 36,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E66",
+        "department": "D66",
+        "score": 35,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E67",
+        "department": "D67",
+        "score": 34,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E68",
+        "department": "D68",
+        "score": 33,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E69",
+        "department": "D69",
+        "score": 32,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E70",
+        "department": "D70",
+        "score": 31,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E71",
+        "department": "D71",
+        "score": 30,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E72",
+        "department": "D72",
+        "score": 29,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E73",
+        "department": "D73",
+        "score": 28,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E74",
+        "department": "D74",
+        "score": 27,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E75",
+        "department": "D75",
+        "score": 26,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E76",
+        "department": "D76",
+        "score": 25,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E77",
+        "department": "D77",
+        "score": 24,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E78",
+        "department": "D78",
+        "score": 23,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E79",
+        "department": "D79",
+        "score": 22,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E80",
+        "department": "D80",
+        "score": 21,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E81",
+        "department": "D81",
+        "score": 20,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E82",
+        "department": "D82",
+        "score": 19,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E83",
+        "department": "D83",
+        "score": 18,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E84",
+        "department": "D84",
+        "score": 17,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E85",
+        "department": "D85",
+        "score": 16,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E86",
+        "department": "D86",
+        "score": 15,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E87",
+        "department": "D87",
+        "score": 14,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E88",
+        "department": "D88",
+        "score": 13,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E89",
+        "department": "D89",
+        "score": 12,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E90",
+        "department": "D90",
+        "score": 11,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E91",
+        "department": "D91",
+        "score": 10,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E92",
+        "department": "D92",
+        "score": 9,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E93",
+        "department": "D93",
+        "score": 8,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E94",
+        "department": "D94",
+        "score": 7,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E95",
+        "department": "D95",
+        "score": 6,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E96",
+        "department": "D96",
+        "score": 5,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E97",
+        "department": "D97",
+        "score": 4,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E98",
+        "department": "D98",
+        "score": 3,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E99",
+        "department": "D99",
+        "score": 2,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E100",
+        "department": "D100",
+        "score": 1,
+        "date": "19/01/2020 14:52:14"
+    },
+    {
+        "employee_code": "E101",
+        "department": "Waltzz",
+        "score": 41,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E102",
+        "department": "Waltzz",
+        "score": 42,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E103",
+        "department": "Waltzz",
+        "score": 43,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E104",
+        "department": "Waltzz",
+        "score": 44,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E105",
+        "department": "Waltzz",
+        "score": 45,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E106",
+        "department": "Waltzz",
+        "score": 46,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E107",
+        "department": "Waltzz",
+        "score": 47,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E108",
+        "department": "Waltzz",
+        "score": 48,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E109",
+        "department": "Waltzz",
+        "score": 49,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E110",
+        "department": "Waltzz",
+        "score": 50,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E111",
+        "department": "Waltzz",
+        "score": 51,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E112",
+        "department": "Waltzz",
+        "score": 52,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E113",
+        "department": "Waltzz",
+        "score": 53,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E114",
+        "department": "Waltzz",
+        "score": 54,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E115",
+        "department": "Waltzz",
+        "score": 55,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E116",
+        "department": "Waltzz",
+        "score": 56,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E117",
+        "department": "Waltzz",
+        "score": 57,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E118",
+        "department": "Waltzz",
+        "score": 58,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E119",
+        "department": "Waltzz",
+        "score": 59,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E120",
+        "department": "Waltzz",
+        "score": 60,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E121",
+        "department": "Waltzz",
+        "score": 61,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E122",
+        "department": "Waltzz",
+        "score": 62,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E123",
+        "department": "Waltzz",
+        "score": 63,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E124",
+        "department": "Waltzz",
+        "score": 64,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E125",
+        "department": "Waltzz",
+        "score": 65,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E126",
+        "department": "Waltzz",
+        "score": 66,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E127",
+        "department": "Waltzz",
+        "score": 67,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E128",
+        "department": "Waltzz",
+        "score": 68,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E129",
+        "department": "Waltzz",
+        "score": 69,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E130",
+        "department": "Waltzz",
+        "score": 70,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E131",
+        "department": "Waltzz",
+        "score": 71,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E132",
+        "department": "Waltzz",
+        "score": 72,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E133",
+        "department": "Waltzz",
+        "score": 73,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E134",
+        "department": "Waltzz",
+        "score": 74,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E135",
+        "department": "Waltzz",
+        "score": 75,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E136",
+        "department": "Waltzz",
+        "score": 76,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E137",
+        "department": "Waltzz",
+        "score": 77,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E138",
+        "department": "Waltzz",
+        "score": 78,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E139",
+        "department": "Waltzz",
+        "score": 79,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E140",
+        "department": "Waltzz",
+        "score": 80,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E141",
+        "department": "Waltzz",
+        "score": 81,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E142",
+        "department": "Waltzz",
+        "score": 82,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E143",
+        "department": "Waltzz",
+        "score": 83,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E144",
+        "department": "Waltzz",
+        "score": 84,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E145",
+        "department": "Waltzz",
+        "score": 85,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E146",
+        "department": "Waltzz",
+        "score": 86,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E147",
+        "department": "Waltzz",
+        "score": 87,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E148",
+        "department": "Waltzz",
+        "score": 88,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E149",
+        "department": "Waltzz",
+        "score": 89,
+        "date": "19/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E150",
+        "department": "D150",
+        "score": 60,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E151",
+        "department": "D151",
+        "score": 61,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E152",
+        "department": "D152",
+        "score": 62,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E153",
+        "department": "D153",
+        "score": 63,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E154",
+        "department": "D154",
+        "score": 64,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E155",
+        "department": "D155",
+        "score": 65,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E156",
+        "department": "D156",
+        "score": 66,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E157",
+        "department": "D157",
+        "score": 67,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E158",
+        "department": "D158",
+        "score": 68,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E159",
+        "department": "D159",
+        "score": 69,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E160",
+        "department": "D160",
+        "score": 70,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E161",
+        "department": "D161",
+        "score": 71,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E162",
+        "department": "D162",
+        "score": 72,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E163",
+        "department": "D163",
+        "score": 73,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E164",
+        "department": "D164",
+        "score": 74,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E165",
+        "department": "D165",
+        "score": 75,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E166",
+        "department": "D166",
+        "score": 76,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E167",
+        "department": "D167",
+        "score": 77,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E168",
+        "department": "D168",
+        "score": 78,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E169",
+        "department": "D169",
+        "score": 79,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E170",
+        "department": "D170",
+        "score": 80,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E171",
+        "department": "D171",
+        "score": 81,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E172",
+        "department": "D172",
+        "score": 82,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E173",
+        "department": "D173",
+        "score": 83,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E174",
+        "department": "D174",
+        "score": 84,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E175",
+        "department": "D175",
+        "score": 85,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E176",
+        "department": "D176",
+        "score": 86,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E177",
+        "department": "D177",
+        "score": 87,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E178",
+        "department": "D178",
+        "score": 88,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E179",
+        "department": "D179",
+        "score": 89,
+        "date": "14/01/2020 15:01:20"
+    },
+    {
+        "employee_code": "E180",
+        "department": "D180",
+        "score": 70,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E181",
+        "department": "D181",
+        "score": 71,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E182",
+        "department": "D182",
+        "score": 72,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E183",
+        "department": "D183",
+        "score": 73,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E184",
+        "department": "D184",
+        "score": 74,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E185",
+        "department": "D185",
+        "score": 75,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E186",
+        "department": "D186",
+        "score": 76,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E187",
+        "department": "D187",
+        "score": 77,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E188",
+        "department": "D188",
+        "score": 78,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E189",
+        "department": "D189",
+        "score": 79,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E190",
+        "department": "D190",
+        "score": 80,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E191",
+        "department": "D191",
+        "score": 81,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E192",
+        "department": "D192",
+        "score": 82,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E193",
+        "department": "D193",
+        "score": 83,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E194",
+        "department": "D194",
+        "score": 84,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E195",
+        "department": "D195",
+        "score": 85,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E196",
+        "department": "D196",
+        "score": 86,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E197",
+        "department": "D197",
+        "score": 87,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E198",
+        "department": "D198",
+        "score": 88,
+        "date": "14/12/2019 15:01:20"
+    },
+    {
+        "employee_code": "E199",
+        "department": "D199",
+        "score": 89,
+        "date": "14/12/2019 15:01:20"
+    }
+]
